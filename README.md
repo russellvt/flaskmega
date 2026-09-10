@@ -4,9 +4,9 @@ Edition](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hel
 These are my own "real time" notes and addendum to that project as I go back
 through it, slowly and page-by-page, for the umpteenth time.
 
-|  Overall  | Status |
-|      ---: | :---: |
-|  Started: | 2026 Sep |
+| Overall  |   Status   |
+|    ---:  | :---       |
+| Started: | 2026 Sep   |
 |  Status: | Getting Started with Documentation |
 
 
