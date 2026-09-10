@@ -15,6 +15,14 @@ Ideally, this should be compatible with both a native text "old-school" terminal
 using vim and tools like pathogen to mymic a good IDE with pylint/pyflake, etc...
 as well as using PyCharm, Github, Mercurial, and gitweb (among other common tools).
 
+
+## Principles and Coding Standards
+
+* All code should pass current and appropriate linters and syntax/style checkers
+* Derivations should be clearly documented in-line with a disclaiming comment
+* Maintain a heterogeneous IDE/platform environment whenever possible
+
+
 ## Other Tools and Documentation
 * Adding [Github Repository into Redmine](<https://www.redmine.org/projects/redmine/wiki/HowTo_Easily_integrate_a_(SSH_secured)_GIT_repository_into_redmine_>)
 
