@@ -1,13 +1,13 @@
 # Flask Mega Tutorial for UNIX Grey-Beards
-
-| Overall | Status |
-|  ---: | :---: |
-|  Started: | 2026 Sep |
-
 This is based on [Miguel Grinberg's wonderful Flask Mega Tutorial - 2024
 Edition](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
 These are my own "real time" notes and addendum to that project as I go back
 through it, slowly and page-by-page, for the umpteenth time.
+
+|  Overall  | Status |
+|      ---: | :---: |
+|  Started: | 2026 Sep |
+|  Status: | Getting Started with Documentation |
 
 
 ## Intent
