@@ -1,18 +1,19 @@
 # Flask Mega Tutorial
 Started: 2026 Sep
 
-This is based on Miguel Grinberg's wonderful Flask Mega Tutorial -
-[2024 Edition](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
-This is my own notes and addendum to that project.
+This is based on [Miguel Grinberg's wonderful Flask Mega Tutorial - 2024
+Edition](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
+These are my own "real time" notes and addendum to that project as I go back
+through it, slowly and page-by-page, for the umpteenth time.
 
 
 ## Intent
-This should be compatible with both a text terminal, using vim and tools
-like pathogen to run a unix terminal-based IDE with pylint/pyflake, etc..
-as well as PyCharm, Github, and gitweb (among other common tools).
+Ideally, this should be compatible with both a native text "old-school" terminal,
+using vim and tools like pathogen to mymic a good IDE with pylint/pyflake, etc...
+as well as using PyCharm, Github, Mercurial, and gitweb (among other common tools).
 
-## Other Tools
-* Adding [Github Repository into Redmine](https://www.redmine.org/projects/redmine/wiki/HowTo_Easily_integrate_a_\(SSH_secured\)_GIT_repository_into_redmine_
+## Other Tools and Documentation
+* Adding [Github Repository into Redmine](<https://www.redmine.org/projects/redmine/wiki/HowTo_Easily_integrate_a_(SSH_secured)_GIT_repository_into_redmine_>)
 
 
 <!-- 
